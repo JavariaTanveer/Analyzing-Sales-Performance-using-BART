@@ -103,6 +103,6 @@ It receives prompts like:
 ![t4](https://github.com/user-attachments/assets/40a51ef3-fd26-448f-a9f6-b46e35c4d03c)
 ![t3](https://github.com/user-attachments/assets/083803bb-f17d-4567-82c5-3ceb5e93d022)
 
-![ChatGPT Image May 12, 2025, 11_49_41 AM](https://github.com/user-attachments/assets/73cb2b6a-2960-470f-a5f5-04d0edc7dc96)
 
+![5c15a3c2-55eb-49ef-972d-de32b25495ed](https://github.com/user-attachments/assets/e44ed748-97c9-4596-b6aa-fc1cfd718e39)
 
